@@ -27,7 +27,7 @@ The model takes **images of single words or text lines (multiple words) as input
 
 The input images, and the expected outputs are shown below when the text line model is used.
 
-![test](./data/word.png)
+![test](./data/hello2.png)
 ```
 > python main.py
 Init with stored values from ../model/snapshot-13
